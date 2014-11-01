@@ -9,4 +9,5 @@
 | Bayerische Staatsbibliothek | <https://www.bsb-muenchen.de/en/catalogues-databases/digital-collections/> | ?site off line on Oct. 31 2014 |   ?site off line on Oct. 31 2014 | site off line on Oct. 31 2014 | site off line on Oct. 31 2014 |
 | Walters Art Museum | <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> | 3000PPI TIF files |   CC-BY-SA, see <http://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html> |  individual images | none |
 | Metropolitan Museum of Art, Image Resources | <http://www.metmuseum.org/research/image-resources> | jpgs (unknown resolution?)|Non-commercial reuse permitted with attribution, see<http://www.metmuseum.org/information/terms-and-conditions> | individual images |  none? |
+| Bibliothèque virtuelle des manuscrits médiévaux (BVMM) | <http://bvmm.irht.cnrs.fr> | jpgs | CC-BY-NC | individual images (but right-click is blocked) | none |
 
