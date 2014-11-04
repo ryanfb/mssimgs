@@ -17,6 +17,7 @@
 | Universiteit Utrecht | <http://bc.library.uu.nl/> | pdf | license? | pdf of entire MS |  ? |  
 | Université de Toulouse | <http://tolosana.univ-toulouse.fr/> | pdf | license? | pdf of entire MS | ? |  
 | Qatar Digital Library | <http://www.qdl.qa/en> | jpgs | public domain | ? | ? |
+| Bibliothèque virtuelle des manuscrits médiévaux (BVMM) | <http://bvmm.irht.cnrs.fr> | jpgs | CC-BY-NC | individual images (but right-click is blocked) | none |
 
 
 
